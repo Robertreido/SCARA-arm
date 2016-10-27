@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arm()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Arm\n
+comment1.params=
+comment1.target=void\ draw()
+comment2.params=
+comment2.target=void\ directKinematic()
+comment3.params=xt_new\ yt_new
+comment3.target=void\ inverseKinematic(double,\ double)
+comment4.params=
+comment4.target=void\ calculateMotorVoltages()
+comment4.text=Calculates\ motor\ voltages\ based\ on\ angles
+comment5.params=
+comment5.target=double\ get_theta1()
+comment6.params=
+comment6.target=double\ get_theta2()
+comment7.params=t1\ t2
+comment7.target=void\ set_angles(double,\ double)
+comment8.params=
+comment8.target=int\ get_pwm1()
+comment9.params=
+comment9.target=int\ get_pwm2()
+numComments=10
